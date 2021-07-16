@@ -1,0 +1,5 @@
+reference_scripts/*
+reference_guides/*
+production_scripts/external/*
+dev_scripts/*
+.DS_Store
